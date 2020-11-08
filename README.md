@@ -1,4 +1,4 @@
-### Hello, I am Jessica Taylor
+## Hello, I am Jessica Taylor
 
 # Intro
 
