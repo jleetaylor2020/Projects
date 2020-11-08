@@ -5,8 +5,8 @@
 I am a seasoned professional with 12 years of project management experience in a nonprofit and corporate leadership capacity. Currently, I work remotely and am employed full time with a tech/webops company headquartered in San Francisco, CA. I provide technical support for frontend and backend web design and website reliability. 
 
 ## Experience
-2019-02 to present
-| Customer Success Engineer
+### 2019-02 to present
+### | Customer Success Engineer
 
 ### Pantheon Platform
 
