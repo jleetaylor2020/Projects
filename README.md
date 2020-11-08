@@ -1,6 +1,6 @@
-## Hello, I am Jessica Taylor
+# Hello, I am Jessica Taylor
 
-# Intro
+## Intro
 
 I am a seasoned professional with 12 years of project management experience in a nonprofit and corporate leadership capacity. Currently, I work remotely and am employed full time with a San Francisco based tech/webops company.  I serve in a role as IT support for web site reliability in both front-end and back-end web design.  
 
