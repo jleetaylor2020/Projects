@@ -5,8 +5,8 @@
 I am a seasoned professional with 12 years of project management experience in a nonprofit and corporate leadership capacity. Currently, I work remotely and am employed full time with a tech/webops company headquartered in San Francisco, CA. I provide technical support for frontend and backend web design and website reliability. 
 
 ## Experience
-- [ ] 2019-02 to present
-Customer Success Engineer
+[ ] 2019-02 to present
+[ ] Customer Success Engineer
 
 Pantheon Platform
 
@@ -17,8 +17,8 @@ Maintain and enhance Customer Relationships
 Provide CMS expertise to new and existing customer groups.
 Key liaison between clients and internal teams, with the aim of enhancing customer experience so that everyone gets the most out of Pantheon's services.
 
-- [ ] 2017-05 to 2019-02
-Program Manager 
+[ ] 2017-05 to 2019-02
+[ ] Program Manager 
 
 Community Food Bank of Central Alabama - partner of United Way
 
@@ -34,8 +34,8 @@ Team co-lead grant writer and award winner to $65,000 in grant funding via Walma
 2018 Recipient to $20,000 Grant Performance Award by Feeding America for surpassing and exceeding the national level's performance goal for the year
 Certified as National Diabetes Prevention Program Lifestyle Coach (NDPP)
 
-- [ ] 2016-04 to 2017-05
-Retail Sales Technology Consultant 
+[ ] 2016-04 to 2017-05
+[ ] Retail Sales Technology Consultant 
 
 AT&T Inc.
 
@@ -45,8 +45,8 @@ Exceeded sales goals by 200% for continual 10 month period both in business and 
 Strategized to effectively and quickly learn newest technologies in VOIP/LAN/ NETWORK SETUP/Wireless Home Security and Automation/MOBILE PLATFORMS and Repairs
 Provided excellent customer support and superb customer retention rate
 
-- [ ] 2014-09 to 2016-03
-Corporate Account Executive - Print Advertising Sales
+[ ] 2014-09 to 2016-03
+[ ] Corporate Account Executive - Print Advertising Sales
 
 MSPARK
 
@@ -56,8 +56,8 @@ Managed creative print marketing campaigns in Southeast region for corporations 
 Expanded technology skillset in areas of Predictive Data Analysis, Wordpress and Graphic Designs, Direct Mail Marketing Campaigns, Microsoft Excel tools capable of data tracking and analyzing P&L statements related to the marketing campaign efforts
 Met Weekly Print Deadlines as Required
 
-- [ ] 2013-01 to 2014-08
-Telecommunications Call Center Support
+[ ] 2013-01 to 2014-08
+[ ] Telecommunications Call Center Support
 
 AT&T Inc.
 
@@ -67,8 +67,8 @@ Provided multi-wrap-around customer support  services including: Technical Suppo
 Completed 6 weeks of paid IT Training, Customer Relations, and Sales Training
 CompTia IT Fundamentals (ITF certified)
 
-- [ ] 2010-08 to 2013-01
-Program Manager and College Counselor
+[ ] 2010-08 to 2013-01
+[ ] Program Manager and College Counselor
 
 University of Montevallo
 
@@ -79,8 +79,8 @@ Provided counseling and support for a base of 2,700 staff and students who were 
 Adhered to all FERPA, HIPAA, ACA guidelines including confidentiality, current licensure, and current liability insurance as a counselor.
 Certified as Licensed Professional Counselor (LPC) and nationally credentialed National Certified Counselor (NCC)
 
-- [ ] 2009-01 to 2010-08
-Master's Program Internship
+[ ] 2009-01 to 2010-08
+[ ] Master's Program Internship
 
 UAB Hospital
 
@@ -91,8 +91,8 @@ Performed documentation of counseling services and adhered to HIPPAA Confidentia
 Conducted research and provided speaking presentations on numerous counseling topics at the annual Alabama State Conference for Counselors
 Served as an Alabama Counseling Association Junior Board Member
 
-- [ ] 2007-08 to 2010-08
-Substance Abuse Counselor
+[ ] 2007-08 to 2010-08
+[ ] Substance Abuse Counselor
 
 Huntsville Metro Treatment Center
 
