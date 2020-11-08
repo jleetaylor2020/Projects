@@ -1,11 +1,11 @@
-# Hello, I am Jessica Taylor
+# Hello, I'm Jessica Taylor
 
 ## Intro
 
 I am a seasoned professional with 12 years of project management experience in a nonprofit and corporate leadership capacity. Currently, I work remotely and am employed full time with a San Francisco based tech/webops company.  I serve in a role as IT support for web site reliability in both front-end and back-end web design.  
 
 
-# Experience
+## Experience
 2019-02
 present
 Customer Success Engineer
@@ -110,7 +110,7 @@ Managed 45 person caseload for the treatment of substance abuse and addiction; p
 Developed proficiency in Microsoft Word, Excel, Powerpoint in order to track and document client progress and treatment, present educational materials, and collaborate with treatment team
 Performed documentation of counseling services and adhered to HIPPAA Confidentiality Guidelines 
 
-# Education
+## Education
 2020-2021
 Data Analytics Professional - Career Foundry - Exp. Graduation: July 2021
 
@@ -127,7 +127,7 @@ University of North Alabama
 BS - Secondary Education - Concentration: Social Sciences (6-12th Grade)
 Certified: Teacher Education Certificate - Highly Qualified Teacher (Expired)
 
-# Certificates
+## Certificates
 
 2010
 Licensed Professional Counselor - National Board for Certified Counselors
