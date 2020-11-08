@@ -6,9 +6,7 @@ I am a seasoned professional with 12 years of project management experience in a
 
 ## Experience
 ### 2019-02 to present
-### Customer Success Engineer
-
-### Pantheon Platform
+### Pantheon Platform |### Customer Success Engineer 
 
 Provide technical guidance and platform information to Pantheon customers to include: reviewing log files, New Relic data, codebase structure/contents and identifying potential points of failure, as well as areas of improvement. Duties to include:
 Contribute to documentation
@@ -17,10 +15,8 @@ Maintain and enhance Customer Relationships
 Provide CMS expertise to new and existing customer groups.
 Key liaison between clients and internal teams, with the aim of enhancing customer experience so that everyone gets the most out of Pantheon's services.
 
-2017-05 to 2019-02
-| Program Manager 
-
-### Community Food Bank of Central Alabama - partner of United Way
+### 2017-05 to 2019-02
+### Community Food Bank of Central Alabama |### Program Manager 
 
 Reports directly to the Executive Director as the food donation coordinator completing multiple duties as needed to advance CFBCA's organizational mission.
 Creates web design and promotional materials for the donation program; designs a web platform for webinar trainings to donors and distributors
@@ -34,10 +30,8 @@ Team co-lead grant writer and award winner to $65,000 in grant funding via Walma
 2018 Recipient to $20,000 Grant Performance Award by Feeding America for surpassing and exceeding the national level's performance goal for the year
 Certified as National Diabetes Prevention Program Lifestyle Coach (NDPP)
 
-2016-04 to 2017-05
-| Retail Sales Technology Consultant 
-
-### AT&T Inc.
+### 2016-04 to 2017-05
+### AT&T Inc. |### Retail Sales Technology Consultant 
 
 Reported to Store Manager
 Recognition as a top sales leader ranking in the top 5% of sales in the Southeast Region (2016-2017)
@@ -45,10 +39,8 @@ Exceeded sales goals by 200% for continual 10 month period both in business and 
 Strategized to effectively and quickly learn newest technologies in VOIP/LAN/ NETWORK SETUP/Wireless Home Security and Automation/MOBILE PLATFORMS and Repairs
 Provided excellent customer support and superb customer retention rate
 
-2014-09 to 2016-03
-| Corporate Account Executive - Print Advertising Sales
-
-### MSPARK
+### 2014-09 to 2016-03
+### MSPARK |### Corporate Account Executive - Print Advertising Sale
 
 Reported to Director of Corporate Accounts
 Directed business development, product development, and strategic partnerships alongside a business analytics team to offer cost saving techniques in areas of marketing, digital & printed coupons 
@@ -56,10 +48,8 @@ Managed creative print marketing campaigns in Southeast region for corporations 
 Expanded technology skillset in areas of Predictive Data Analysis, Wordpress and Graphic Designs, Direct Mail Marketing Campaigns, Microsoft Excel tools capable of data tracking and analyzing P&L statements related to the marketing campaign efforts
 Met Weekly Print Deadlines as Required
 
-2013-01 to 2014-08
-| Telecommunications Call Center Support
-
-### AT&T Inc.
+### 2013-01 to 2014-08
+### AT&T Inc. |### Telecommunications Call Center Support
 
 Reported to Call Center Manager
 Advanced technology training in LAN/WAP/ETHERNET troubleshooting/ VOIP/LAN NETWORK INTERNET SETUP/Wireless Home Security and Automation/MOBILE  APP PLATFORMS, troubleshoots, and repairs
@@ -67,10 +57,8 @@ Provided multi-wrap-around customer support  services including: Technical Suppo
 Completed 6 weeks of paid IT Training, Customer Relations, and Sales Training
 CompTia IT Fundamentals (ITF certified)
 
-2010-08 to 2013-01
-| Program Manager and College Counselor
-
-### University of Montevallo
+### 2010-08 to 2013-01
+### University of Montevallo |### Program Manager and College Counselor
 
 Reported to Dean of Student Services
 Designed and coordinated new campus wide initiatives for student crisis care and diversity training 
@@ -79,10 +67,8 @@ Provided counseling and support for a base of 2,700 staff and students who were 
 Adhered to all FERPA, HIPAA, ACA guidelines including confidentiality, current licensure, and current liability insurance as a counselor.
 Certified as Licensed Professional Counselor (LPC) and nationally credentialed National Certified Counselor (NCC)
 
-2009-01 to 2010-08
-| Master's Program Internship
-
-### UAB Hospital
+### 2009-01 to 2010-08
+### UAB Hospital |### Master's Program Internship
 
 Reported to UAB Hospital Manager of Social Work Programs and the University of North Alabama Supervising Instructor
 Provided mental health 1:1  and group counseling sessions at the Psychiatric Unit at UAB Hospital; collaborated with psychiatrists, MD, social workers, and nursing staff to assess patients and provide mental health care and crisis triage
@@ -91,10 +77,8 @@ Performed documentation of counseling services and adhered to HIPPAA Confidentia
 Conducted research and provided speaking presentations on numerous counseling topics at the annual Alabama State Conference for Counselors
 Served as an Alabama Counseling Association Junior Board Member
 
-2007-08 to 2010-08
-| Substance Abuse Counselor
-
-### Huntsville Metro Treatment Center
+### 2007-08 to 2010-08
+### Huntsville Metro Treatment Center |### Substance Abuse Counselor
 
 Reported to Executive Director of HMTC
 Managed 45 person caseload for the treatment of substance abuse and addiction; provided drug screenings, community referrals, 1:1 and group counseling
