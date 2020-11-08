@@ -6,7 +6,7 @@ I am a seasoned professional with 12 years of project management experience in a
 
 ## Experience
 [ ] 2019-02 to present
-[ ] Customer Success Engineer
+| Customer Success Engineer
 
 Pantheon Platform
 
@@ -18,7 +18,7 @@ Provide CMS expertise to new and existing customer groups.
 Key liaison between clients and internal teams, with the aim of enhancing customer experience so that everyone gets the most out of Pantheon's services.
 
 [ ] 2017-05 to 2019-02
-[ ] Program Manager 
+| Program Manager 
 
 Community Food Bank of Central Alabama - partner of United Way
 
@@ -35,7 +35,7 @@ Team co-lead grant writer and award winner to $65,000 in grant funding via Walma
 Certified as National Diabetes Prevention Program Lifestyle Coach (NDPP)
 
 [ ] 2016-04 to 2017-05
-[ ] Retail Sales Technology Consultant 
+| Retail Sales Technology Consultant 
 
 AT&T Inc.
 
@@ -46,7 +46,7 @@ Strategized to effectively and quickly learn newest technologies in VOIP/LAN/ NE
 Provided excellent customer support and superb customer retention rate
 
 [ ] 2014-09 to 2016-03
-[ ] Corporate Account Executive - Print Advertising Sales
+| Corporate Account Executive - Print Advertising Sales
 
 MSPARK
 
@@ -57,7 +57,7 @@ Expanded technology skillset in areas of Predictive Data Analysis, Wordpress and
 Met Weekly Print Deadlines as Required
 
 [ ] 2013-01 to 2014-08
-[ ] Telecommunications Call Center Support
+| Telecommunications Call Center Support
 
 AT&T Inc.
 
@@ -68,7 +68,7 @@ Completed 6 weeks of paid IT Training, Customer Relations, and Sales Training
 CompTia IT Fundamentals (ITF certified)
 
 [ ] 2010-08 to 2013-01
-[ ] Program Manager and College Counselor
+| Program Manager and College Counselor
 
 University of Montevallo
 
@@ -80,7 +80,7 @@ Adhered to all FERPA, HIPAA, ACA guidelines including confidentiality, current l
 Certified as Licensed Professional Counselor (LPC) and nationally credentialed National Certified Counselor (NCC)
 
 [ ] 2009-01 to 2010-08
-[ ] Master's Program Internship
+| Master's Program Internship
 
 UAB Hospital
 
@@ -92,7 +92,7 @@ Conducted research and provided speaking presentations on numerous counseling to
 Served as an Alabama Counseling Association Junior Board Member
 
 [ ] 2007-08 to 2010-08
-[ ] Substance Abuse Counselor
+| Substance Abuse Counselor
 
 Huntsville Metro Treatment Center
 
