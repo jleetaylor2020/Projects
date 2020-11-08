@@ -1,11 +1,11 @@
 ### Hello, I am Jessica Taylor
 
-## Intro
+# Intro
 
 I am a seasoned professional with 12 years of project management experience in a nonprofit and corporate leadership capacity. Currently, I work remotely and am employed full time with a San Francisco based tech/webops company.  I serve in a role as IT support for web site reliability in both front-end and back-end web design.  
 
 
-Experience
+# Experience
 2019-02
 present
 Customer Success Engineer
@@ -18,8 +18,6 @@ Assist with testing Pantheon products and tools (i.e. Terminus, Quicksilver)
 Maintain and enhance Customer Relationships
 Provide CMS expertise to new and existing customer groups.
 Key liaison between clients and internal teams, with the aim of enhancing customer experience so that everyone gets the most out of Pantheon's services.
-
-
 
 2017-05
 present
@@ -38,6 +36,7 @@ Serves as a team co-lead to the annual auditing practices and daily food recall 
 Team co-lead grant writer and award winner to $65,000 in grant funding via Walmart Inc , Publix, and Feeding America 
 2018 Recipient to $20,000 Grant Performance Award by Feeding America for surpassing and exceeding the national level's performance goal for the year
 Certified as National Diabetes Prevention Program Lifestyle Coach (NDPP)
+
 2016-04
 2017-05
 Retail Sales Technology Consultant 
@@ -49,6 +48,7 @@ Recognition as a top sales leader ranking in the top 5% of sales in the Southeas
 Exceeded sales goals by 200% for continual 10 month period both in business and individual sectors
 Strategized to effectively and quickly learn newest technologies in VOIP/LAN/ NETWORK SETUP/Wireless Home Security and Automation/MOBILE PLATFORMS and Repairs
 Provided excellent customer support and superb customer retention rate
+
 2014-09
 2016-03
 Corporate Account Executive - Print Advertising Sales
@@ -60,6 +60,7 @@ Directed business development, product development, and strategic partnerships a
 Managed creative print marketing campaigns in Southeast region for corporations including: Papa Johns, Ruby Tuesdays, and Olive Garden
 Expanded technology skillset in areas of Predictive Data Analysis, Wordpress and Graphic Designs, Direct Mail Marketing Campaigns, Microsoft Excel tools capable of data tracking and analyzing P&L statements related to the marketing campaign efforts
 Met Weekly Print Deadlines as Required
+
 2013-01
 2014-08
 Telecommunications Call Center Support
@@ -71,6 +72,7 @@ Advanced technology training in LAN/WAP/ETHERNET troubleshooting/ VOIP/LAN NETWO
 Provided multi-wrap-around customer support  services including: Technical Support (Software/Hardware/WAP/LAN/WLAN/MOBILE/VOIP), Customer billing questions, and Retail Sales on a national level call center based in Birmingham, AL.
 Completed 6 weeks of paid IT Training, Customer Relations, and Sales Training
 CompTia IT Fundamentals (ITF certified)
+
 2010-08
 2013-01
 Program Manager and College Counselor
@@ -83,6 +85,7 @@ Designed safe zone website, and created new training materials for launch of a n
 Provided counseling and support for a base of 2,700 staff and students who were in a state of crisis, critical mental health care, and served as overnight Emergency Duty Team Member.
 Adhered to all FERPA, HIPAA, ACA guidelines including confidentiality, current licensure, and current liability insurance as a counselor.
 Certified as Licensed Professional Counselor (LPC) and nationally credentialed National Certified Counselor (NCC)
+
 2009-01
 2010-08
 Master's Program Internship
@@ -95,6 +98,7 @@ Developed proficiency in UAB Reporting Software and Microsoft Word, Excel, Power
 Performed documentation of counseling services and adhered to HIPPAA Confidentiality Guidelines as required by the American Hospital Association
 Conducted research and provided speaking presentations on numerous counseling topics at the annual Alabama State Conference for Counselors
 Served as an Alabama Counseling Association Junior Board Member
+
 2007-08
 2010-08
 Substance Abuse Counselor
@@ -105,23 +109,25 @@ Reported to Executive Director of HMTC
 Managed 45 person caseload for the treatment of substance abuse and addiction; provided drug screenings, community referrals, 1:1 and group counseling
 Developed proficiency in Microsoft Word, Excel, Powerpoint in order to track and document client progress and treatment, present educational materials, and collaborate with treatment team
 Performed documentation of counseling services and adhered to HIPPAA Confidentiality Guidelines 
-Education
-2010
-University of North Alabama
 
-MA - Mental Health Community Counselor - License # C1763A
-Certified Licensed Professional Counselor (LPC) and National Certified Counselor (NCC) 
-2005
-University of North Alabama
+# Education
+2020-2021
+Data Analytics Professional - Career Foundry - Exp. Graduation: July 2021
 
-BS - Secondary Education - Concentration: Social Sciences (6-12th Grade)
-Certified: Teacher Education Certificate - Highly Qualified Teacher (Expired)
-Certificates
 2019
 Full Stack Software Developer  - Covalence Academy (Birmingham, AL)
 
-2018
-CompTIA IT Fundamentals+ (ITF+) - Computing Technology Industry Association
+2010
+University of North Alabama
+MA - Mental Health Community Counselor - License # C1763A
+Certified Licensed Professional Counselor (LPC) and National Certified Counselor (NCC) 
+
+2005
+University of North Alabama
+BS - Secondary Education - Concentration: Social Sciences (6-12th Grade)
+Certified: Teacher Education Certificate - Highly Qualified Teacher (Expired)
+
+# Certificates
 
 2010
 Licensed Professional Counselor - National Board for Certified Counselors
