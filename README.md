@@ -2,8 +2,7 @@
 
 ## Intro
 
-I am a seasoned professional with 12 years of project management experience in a nonprofit and corporate leadership capacity. Currently, I work remotely and am employed full time with a San Francisco based tech/webops company.  I serve in a role as IT support for web site reliability in both front-end and back-end web design.  
-
+I am a seasoned professional with 12 years of project management experience in a nonprofit and corporate leadership capacity. Currently, I work remotely and am employed full time with a tech/webops company headquartered in San Francisco, CA. I provide technical support for frontend and backend web design and website reliability. 
 
 ## Experience
 2019-02
