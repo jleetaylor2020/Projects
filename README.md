@@ -6,7 +6,7 @@ I am a seasoned professional with 12 years of project management experience in a
 
 ## Experience
 ### 2019-02 to present
-### | Customer Success Engineer
+### Customer Success Engineer
 
 ### Pantheon Platform
 
