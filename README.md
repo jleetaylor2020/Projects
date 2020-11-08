@@ -8,7 +8,7 @@ I am a seasoned professional with 12 years of project management experience in a
 2019-02 to present
 | Customer Success Engineer
 
-Pantheon Platform
+### Pantheon Platform
 
 Provide technical guidance and platform information to Pantheon customers to include: reviewing log files, New Relic data, codebase structure/contents and identifying potential points of failure, as well as areas of improvement. Duties to include:
 Contribute to documentation
@@ -20,7 +20,7 @@ Key liaison between clients and internal teams, with the aim of enhancing custom
 2017-05 to 2019-02
 | Program Manager 
 
-Community Food Bank of Central Alabama - partner of United Way
+### Community Food Bank of Central Alabama - partner of United Way
 
 Reports directly to the Executive Director as the food donation coordinator completing multiple duties as needed to advance CFBCA's organizational mission.
 Creates web design and promotional materials for the donation program; designs a web platform for webinar trainings to donors and distributors
@@ -37,7 +37,7 @@ Certified as National Diabetes Prevention Program Lifestyle Coach (NDPP)
 2016-04 to 2017-05
 | Retail Sales Technology Consultant 
 
-AT&T Inc.
+### AT&T Inc.
 
 Reported to Store Manager
 Recognition as a top sales leader ranking in the top 5% of sales in the Southeast Region (2016-2017)
@@ -48,7 +48,7 @@ Provided excellent customer support and superb customer retention rate
 2014-09 to 2016-03
 | Corporate Account Executive - Print Advertising Sales
 
-MSPARK
+### MSPARK
 
 Reported to Director of Corporate Accounts
 Directed business development, product development, and strategic partnerships alongside a business analytics team to offer cost saving techniques in areas of marketing, digital & printed coupons 
@@ -59,7 +59,7 @@ Met Weekly Print Deadlines as Required
 2013-01 to 2014-08
 | Telecommunications Call Center Support
 
-AT&T Inc.
+### AT&T Inc.
 
 Reported to Call Center Manager
 Advanced technology training in LAN/WAP/ETHERNET troubleshooting/ VOIP/LAN NETWORK INTERNET SETUP/Wireless Home Security and Automation/MOBILE  APP PLATFORMS, troubleshoots, and repairs
@@ -70,7 +70,7 @@ CompTia IT Fundamentals (ITF certified)
 2010-08 to 2013-01
 | Program Manager and College Counselor
 
-University of Montevallo
+### University of Montevallo
 
 Reported to Dean of Student Services
 Designed and coordinated new campus wide initiatives for student crisis care and diversity training 
@@ -82,7 +82,7 @@ Certified as Licensed Professional Counselor (LPC) and nationally credentialed N
 2009-01 to 2010-08
 | Master's Program Internship
 
-UAB Hospital
+### UAB Hospital
 
 Reported to UAB Hospital Manager of Social Work Programs and the University of North Alabama Supervising Instructor
 Provided mental health 1:1  and group counseling sessions at the Psychiatric Unit at UAB Hospital; collaborated with psychiatrists, MD, social workers, and nursing staff to assess patients and provide mental health care and crisis triage
@@ -94,7 +94,7 @@ Served as an Alabama Counseling Association Junior Board Member
 2007-08 to 2010-08
 | Substance Abuse Counselor
 
-Huntsville Metro Treatment Center
+### Huntsville Metro Treatment Center
 
 Reported to Executive Director of HMTC
 Managed 45 person caseload for the treatment of substance abuse and addiction; provided drug screenings, community referrals, 1:1 and group counseling
